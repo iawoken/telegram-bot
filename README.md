@@ -25,4 +25,4 @@ Description: Herhangi bir açıklama.
 
 ## Kullanım
 Projeyi aktif etmek için öncelikle "**Bot.py**" içerisinde bulunan "Config" kısmını doldurmamız gerekiyor.
-Eğer ki `API ID` ve `API HASH` bilgileriniz yok ise yukarıda yazmış olduğum "API[https://github.com/iawoken/telegram-bot#api]" başlığından öğrenebilirsiniz!
+Eğer ki `API ID` ve `API HASH` bilgileriniz yok ise yukarıda yazmış olduğum "[API](https://github.com/iawoken/telegram-bot#api)" başlığından öğrenebilirsiniz!
